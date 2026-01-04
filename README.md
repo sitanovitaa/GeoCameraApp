@@ -1,8 +1,5 @@
-# Nama : Sita Novitasari
-# NPM  : 085023006
-
-
-
+**Nama:** Sita Novitasari  
+**NPM:** 085023006
 
 # GeoCamera App
 
@@ -19,16 +16,16 @@ Aplikasi Flutter yang menggabungkan fitur kamera dan GPS untuk mengambil foto be
 ## Screenshots
 
 ### Tampilan Awal Aplikasi
-![Tampilan Awal](screenshots/tampilanawal.jpg)
+![Tampilan Awal](./screenshots/tampilanawal.jpg)
 
 ### Halaman Depan
-![Halaman Depan](screenshots/ambilfoto.jpg)
+![Halaman Depan](./screenshots/ambilfoto.jpg)
 
 ### Mengambil Foto
-![Ambil Foto](screenshots/ambilfoto2.jpg)
+![Ambil Foto](./screenshots/ambilfoto2.jpg)
 
 ### Hasil Foto dan Lokasi GPS
-![Foto & Lokasi GPS](screenshots/hasil.jpg)
+![Foto & Lokasi GPS](./screenshots/hasil.jpg)
 
 
 ## Prasyarat
